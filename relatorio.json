@@ -1,0 +1,38 @@
+[
+  {
+    "teste": "Login Correto",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ACME_Digital\\assets\\screenshots\\screenshot_Login_Correto.png"
+  },
+  {
+    "teste": "Senha Incorreta",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ACME_Digital\\assets\\screenshots\\screenshot_Senha_Incorreta.png"
+  },
+  {
+    "teste": "Campo Email Vazio",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ACME_Digital\\assets\\screenshots\\screenshot_Campo_Email_Vazio.png"
+  },
+  {
+    "teste": "Campo Senha Vazio",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ACME_Digital\\assets\\screenshots\\screenshot_Campo_Senha_Vazio.png"
+  },
+  {
+    "teste": "Tentativa de XSS",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ACME_Digital\\assets\\screenshots\\screenshot_Tentativa_de_XSS.png"
+  },
+  {
+    "teste": "Tentativa de SQL Injection",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ACME_Digital\\assets\\screenshots\\screenshot_Tentativa_de_SQL_Injection.png"
+  }
+]

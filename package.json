@@ -1,0 +1,12 @@
+{
+  "name": "acme-digital-tests",
+  "version": "1.0.0",
+  "description": "Suite de testes automatizados com Selenium WebDriver",
+  "main": "testeAutomatizado.js",
+  "scripts": {
+    "test": "node testeAutomatizado.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.47.0"
+  }
+}
