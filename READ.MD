@@ -22,4 +22,7 @@ Acesse no navegador:
 1. Abra o terminal do VS Code na pasta do projeto.
 2. Instale as dependências executando:
    ```bash
-   npm install
+   npm install selenium-webdriver
+
+   Após isso execute o teste:
+   node testeAutomatizado.js
