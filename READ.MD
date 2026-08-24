@@ -1,5 +1,9 @@
 # ACME Digital - Sistema de Autenticação e Testes Automatizados
 
+Por:
+Kauã de Souza Oliveira N°13
+Lucas Lima Silva N°15
+
 Projeto desenvolvido para validação de usabilidade, prevenção de falhas de segurança (XSS e SQL Injection) e automação de testes com Selenium.
 
 ## 🚀 Instalação e Configuração
